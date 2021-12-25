@@ -1,0 +1,9 @@
+d:\belgeler\visual studio 2015\Projects\basithashing\basithashing\bin\Debug\basithashing.exe.config
+d:\belgeler\visual studio 2015\Projects\basithashing\basithashing\bin\Debug\basithashing.exe
+d:\belgeler\visual studio 2015\Projects\basithashing\basithashing\bin\Debug\basithashing.pdb
+d:\belgeler\visual studio 2015\Projects\basithashing\basithashing\obj\Debug\basithashing.csprojResolveAssemblyReference.cache
+d:\belgeler\visual studio 2015\Projects\basithashing\basithashing\obj\Debug\basithashing.basitHashFrm.resources
+d:\belgeler\visual studio 2015\Projects\basithashing\basithashing\obj\Debug\basithashing.Properties.Resources.resources
+d:\belgeler\visual studio 2015\Projects\basithashing\basithashing\obj\Debug\basithashing.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2015\Projects\basithashing\basithashing\obj\Debug\basithashing.exe
+d:\belgeler\visual studio 2015\Projects\basithashing\basithashing\obj\Debug\basithashing.pdb
